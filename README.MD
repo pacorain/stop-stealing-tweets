@@ -19,8 +19,9 @@ This bot has just begun development. The following are the steps I *think* need
 to be taken.
 
  * ~~Watch specific accounts for tweets.~~
- * See if media in a tweet originated from elsewhere.
+ * ~~See if media in a tweet originated from elsewhere.~~
  * Try to find the first instance of text in a tweet.
+ * Make sure this tweet isn't actually attributed.
  * Generate a reply with a link to the original.
  * Create the twitter account.
  * Start sending out tweets.
