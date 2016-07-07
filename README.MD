@@ -18,8 +18,7 @@ The project is open source for two reasons:
 This bot has just begun development. The following are the steps I *think* need
 to be taken.
 
- * Create the framework of the app.
- * Watch specific accounts for tweets.
+ * ~~Watch specific accounts for tweets.~~
  * See if media in a tweet originated from elsewhere.
  * Try to find the first instance of text in a tweet.
  * Generate a reply with a link to the original.
