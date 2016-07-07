@@ -25,6 +25,9 @@ to be taken.
  * Generate a reply with a link to the original.
  * Create the twitter account.
  * Start sending out tweets.
+ 
+You can also follow detailed progress on my [personal Trello board]
+(https://trello.com/c/oVqPvPex/10-stop-stealing-tweets-bot).
 
 ## Lisence
 
