@@ -21,6 +21,7 @@
   "homepage": "https://github.com/zbruh/stop-stealing-tweets#readme",
   "dependencies": {
     "big-integer": "^1.6.15",
+    "natural": "^0.4.0",
     "q": "^1.4.1",
     "twitter": "^1.3.0"
   }
