@@ -1,6 +1,9 @@
 # Private data
 config/auth.json
 
+# IDEA project
+.idea
+
 # Logs
 logs
 *.log
